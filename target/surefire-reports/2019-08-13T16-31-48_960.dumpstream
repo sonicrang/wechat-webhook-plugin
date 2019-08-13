@@ -1,0 +1,19 @@
+# Created at 2019-08-13T16:31:53.770
+Boot Manifest-JAR contains absolute paths in classpath 'D:\workspace\wechat-webhook-plugin\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2019-08-13T16:31:55.430
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-08-13T16:31:55.435
+WARNING: Illegal reflective access by com.thoughtworks.xstream.core.util.Fields (file:/C:/Users/daffo/.m2/repository/org/jvnet/hudson/xstream/1.4.7-jenkins-1/xstream-1.4.7-jenkins-1.jar) to field java.util.TreeMap.comparator
+
+# Created at 2019-08-13T16:31:55.440
+WARNING: Please consider reporting this to the maintainers of com.thoughtworks.xstream.core.util.Fields
+
+# Created at 2019-08-13T16:31:55.447
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-08-13T16:31:55.451
+WARNING: All illegal access operations will be denied in a future release
+

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: daffo
+Created-By: Apache Maven
+Build-Jdk: 11.0.4
+Extension-Name: wechat-webhook-plugin
+Specification-Title: 企业微信webhook插件
+Implementation-Title: wechat-webhook-plugin
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: wechat-webhook-plugin
+Long-Name: wechat-webhook-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-08/13/2019 16:46-daffo)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: Rang Wu:sonicrang:sonicrang@gmail.com
+
