@@ -4,9 +4,6 @@
 
 区别[“Jenkins企业微信通知插件”](https://github.com/sonicrang/wechat-notification-plugin)
 
-**使用前请先阅读：**
-
-[企业微信基本概念介绍](https://work.weixin.qq.com/api/doc#90000/90135/90665)
 
 **准备：**
 
